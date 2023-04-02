@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/lovvskillz/python-discord-webhook/master/LICENSE)
 [![PyPI version](https://badge.fury.io/py/discord-webhook.svg)](https://badge.fury.io/py/discord-webhook)
-[![Downloads](https://pepy.tech/badge/discord-webhook)](https://pepy.tech/project/discord-webhook)
+[![Downloads](https://img.shields.io/badge/Downloads-50M%2B-blue)](https://pepy.tech/project/discord-webhook)
 
 Execute Discord Webhooks (also has [async support](#async-support))
 
