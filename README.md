@@ -1,8 +1,10 @@
-# masterchicken
+# Masterchicken: The original chicken's python pypi package: https://organicchicken.netlify.app/
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/lovvskillz/python-discord-webhook/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/PythonChicken123/masterchicken/blob/main/LICENSE)
 [![PyPI version](https://badge.fury.io/py/discord-webhook.svg)](https://badge.fury.io/py/discord-webhook)
-[![Downloads](https://img.shields.io/badge/Downloads-50M%2B-blue)](https://pepy.tech/project/discord-webhook)
+[![Downloads](https://img.shields.io/badge/Downloads-50M%2B-blue)](https://pypi.org/project/masterchicken/#files)
+[![Build](https://warehouse-camo.ingress.cmh1.psfhosted.org/11bfe887ff084d7c660eff15eee1a14265e884e9/68747470733a2f2f63692e6170707665796f722e636f6d2f6170692f70726f6a656374732f7374617475732f78343037347962756f627368346d79783f7376673d74727565)](https://pypi.org/project/masterchicken/#files)
+[![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](https://organicchicken.netlify.app/)
 
 Execute Discord Webhooks (also has [async support](#async-support))
 
