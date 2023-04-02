@@ -1,4 +1,4 @@
-# python-discord-webhook
+# masterchicken
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/lovvskillz/python-discord-webhook/master/LICENSE)
 [![PyPI version](https://badge.fury.io/py/discord-webhook.svg)](https://badge.fury.io/py/discord-webhook)
@@ -10,7 +10,22 @@ Execute Discord Webhooks (also has [async support](#async-support))
 
 Install via pip:
 ```
-pip install discord-webhook
+pip install masterchicken
+```
+
+Install via pip3:
+```
+pip3 install masterchicken
+```
+
+Install via python pip with force (Latest Version):
+```
+python -m pip install --upgrade --force masterchicken
+```
+
+Install via python pip with '--user' command (File Permission)
+```
+python -m pip install --upgrade --user --force masterchicken
 ```
 
 ## Examples
