@@ -1,0 +1,19 @@
+Change Log
+==========
+
+0.0.2 (02/04/2023)
+-------------------
+- New: Backrooms.exe
+    + Backrooms File Extension
+    + Can open any .brs file under 2 seconds
+    + Faster Backrooms Engine File Load
+    = ➡ PLEASE INSTALL BACKROOMS VIA THIS COMMAND: 'pip install --upgrade backroom' To get all files for the backrooms.exe
+- Added a backrooms game:
+    == Noclip to the backrooms and try to escape its moist carpet with thousands of infinite rooms to be trapped in, Be Careful: Escape with concentration to dodge entities and 2.1.313,123.2131.23.2
+- Updated README.md
+
+0.0.1 (01/04/2023)
+-------------------
+- First Release
+- Added CSV Reader
+- Visit discord.gg/backrooms
