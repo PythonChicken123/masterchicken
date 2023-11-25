@@ -1,0 +1,4 @@
+chicken_name,type,hatch_date,token_id,achievements,collections,flying_eligibility,drumstick_value
+Cock-a-doodle-doo,organic,2023-02-18,1,flied-200m-far,none,true,infinite
+Henrietta,organic,2023-02-15,2,layed-first-egg + hatched-first-egg,none,false,5
+Cluck Norris,free-range,2023-02-10,3,none,none,true,infinite

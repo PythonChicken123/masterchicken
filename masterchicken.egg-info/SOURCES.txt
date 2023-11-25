@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+masterchicken/__init__.py
+masterchicken/backrooms.py
+masterchicken/csvreader.py
+masterchicken.egg-info/PKG-INFO
+masterchicken.egg-info/SOURCES.txt
+masterchicken.egg-info/dependency_links.txt
+masterchicken.egg-info/top_level.txt
