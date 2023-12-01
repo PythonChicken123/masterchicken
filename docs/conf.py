@@ -38,8 +38,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-# html_theme = "classic"
-html_theme = ".themes/classic"
+html_theme = "classic"
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
