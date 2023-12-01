@@ -13,9 +13,6 @@ classifiers = [
     'Operating System :: MacOS :: MacOS X',
     'License :: OSI Approved :: MIT License',
     'Programming Language :: Python :: 3',
-    "Programming Language :: Python :: 3.6",
-    "Programming Language :: Python :: 3.7",
-    "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
@@ -23,8 +20,8 @@ classifiers = [
 ]
 setup(
     name='masterchicken',
-    version='0.0.3',
-    description='A basic calculator in "class mathcal:" and csv file reader',
+    version='0.0.6',
+    description='Coop monitoring system with a optimized CSV reader/writer',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://organicchicken.netlify.app/',
@@ -38,12 +35,12 @@ setup(
     author_email='wave6013@hotmail.com',
     license='MIT',
     classifiers=classifiers,
-    keywords=['chicken', 'laserchicken', 'netlify', 'calculator'],
+    keywords=['python', 'chicken', 'egg', 'csv', 'math'],
     packages=find_packages(),
-    python_requires=">=3.6",
-    install_requires=[],
+    python_requires=">=3.9",
+    install_requires=['lumache', 'bottle-websocket', 'bottle', 'build', 'cmake', 'distlib', 'docutils', 'numpy', 'packaging', 'pandas', 'pyarrow', 'readme-renderer', 'setuptools', 'urllib3', 'wheel'],
     package_data={
-        '': ['README.md', 'CHANGELOG.txt'],
+        '': ['README.md', 'CHANGELOG.txt', 'masterchicken.png'],
     },
     include_package_data=True,  
 )
