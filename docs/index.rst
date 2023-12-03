@@ -122,7 +122,7 @@ Basic Coop
        print(f"Chicken Stats: {chicken.get_status}")
 
 Reading CSV
-~~~~~~~~~~~
+-----------
 
 .. code:: python
 
@@ -148,7 +148,7 @@ Reading CSV
            print("2. type: " + type_column_as_list[2])
 
 Writing CSV
-~~~~~~~~~~~
+-----------
 
 .. code:: python
 
