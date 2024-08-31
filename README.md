@@ -10,6 +10,8 @@
 
 MasterChicken is a Python package that provides a robust and efficient way to manage your chicken coop. It offers a comprehensive set of tools and functionalities that make it easier to monitor and control the conditions of your chicken coop, ensuring the health and productivity of your chickens. This amazing package also has an Optimized CSV file reader which can read .csv files with ease and also has a faster speed to calculate math than NumPy.
 
+For the best performance, Use PyPy: https://pypy.org
+
 [![masterchicken](./masterchicken.png)](https://pypi.org/project/masterchicken/)
 
 
@@ -36,6 +38,9 @@ MasterChicken is a Python package that provides a robust and efficient way to ma
 - Achievements: The championship of the chicken production 
 
 ## Installation
+
+**Prerequisites:**
+Python 3.8>=
 
 Masterchicken can be installed via pip:
 ```shell
