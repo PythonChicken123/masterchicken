@@ -26,7 +26,7 @@ For the best performance, Use PyPy: https://pypy.org
 - Faster speed on calculating math
 - The accelerated optimized CSV reader/writer in microseconds!
 - Various versions of python
-- The Backrooms Game: Noclip to the backrooms and try to escape its moist carpet with thousands of infinite rooms to be trapped in, Be Careful: Escape with concentration to dodge entities and 2.1.313,123.2131.23.2
+- The Backrooms Game: Noclip to the backrooms and try to escape its moist carpet with thousands of infinite rooms to be trapped in, Be Careful: Escape with concentration to dodge entities. **Comming Soon**
 - Backroom File Extension: can open any .brs file under a second
 - Backrooms engine file load compiler
 
